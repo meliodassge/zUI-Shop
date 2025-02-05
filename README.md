@@ -37,4 +37,4 @@ Le script **zUI-Shop** permet aux joueurs d'acheter des objets comme du **pain**
 - Tu peux ajouter d'autres objets à vendre en modifiant une simple liste dans le script.
 - Tu peux aussi changer les prix ou ajouter de nouveaux magasins.
 
-Si tu as des questions ou besoin d'aide, je suis là ! 😊 Discord : Meliodassge
+Si tu as des questions ou besoin d'aide, je suis là ! 😊 PS: le script a deux trois probleme a vous de trouver je ne fait pas tout le boulot gratuitemnt faite marcher votre cerveau Discord : Meliodassge
